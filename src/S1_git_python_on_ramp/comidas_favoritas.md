@@ -55,14 +55,14 @@ _[Opcional: explica por qué te gusta]_
 
 ## Estudiante 4
 
-**Nombre completo:** _[Escribe tu nombre aquí]_
+**Nombre completo:** _Luis Angel Hernández Salez_
 
-**Comida favorita:** _[Tu comida favorita]_
+**Comida favorita:** _Pizza_
 
-**Comida que menos te gusta:** _[La comida que menos te gusta]_
+**Comida que menos te gusta:** _Comida con muchos cambios de textura, ej:chorizo, o ciertas partes del pollo_
 
 **Por qué te gusta tu comida favorita:**
-_[Opcional: explica por qué te gusta]_
+_Porque es uno de las pocas comidas que saben bien y que no me hartan cuando la como seguido_
 
 ---
 
